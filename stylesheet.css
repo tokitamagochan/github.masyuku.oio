@@ -1,4 +1,3 @@
-@media (max-width:1280px) {
 
 
 /*ヘッダー*/
@@ -452,7 +451,7 @@ footer {
     text-align: center;
     opacity: 0.5;
 }
-}
+
 /*ーーーーーーーーーーーーーーーーースマホ用ーーーーーーーーーーーーーーーー*/
 @media (max-width:670px) {
 .header {
